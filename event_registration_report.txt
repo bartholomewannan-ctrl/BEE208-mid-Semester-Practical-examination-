@@ -1,0 +1,19 @@
+============================================
+        EVENT REGISTRATION REPORT
+============================================
+Event Name: Youth Leadership Seminar
+Event Date: 15 August 2026
+
+Participant 1
+
+Name: Nkombie Bright
+ID/Phone: 01245323B
+Category: VIP
+Payment Status: PAID
+Registration Fee: GHS 100.00
+
+Total Participants: 1
+Paid Participants: 1
+Unpaid Participants: 0
+Total Expected Amount: GHS 100.00
+Total Amount Paid: GHS 100.00
